@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "labels",
+"features": [
+{ "type": "Feature", "properties": { "id": 1254777, "eid": "", "name": "quarryst", "label": "<quarry st>" }, "geometry": { "type": "Point", "coordinates": [ 333264.319263484911062, 6250089.72504720184952, 0.0 ] } },
+{ "type": "Feature", "properties": { "id": 1254779, "eid": "", "name": "bikeln", "label": "<bike lane>" }, "geometry": { "type": "Point", "coordinates": [ 333181.094925302255433, 6250825.8699871879071, 0.0 ] } }
+]
+}
